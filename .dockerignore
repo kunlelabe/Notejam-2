@@ -5,7 +5,6 @@
 */.venv
 **/.git
 **/.gitignore
-**/.project
 **/.settings
 **/.toolstarget
 **/.vs
