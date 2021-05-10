@@ -33,9 +33,9 @@ nosetests.xml
 *.mo
 
 # Mr Developer
-.mr.developer.cfg
+#.mr.developer.cfg
 
-.pydevproject
+#.pydevproject
 
 # Vim
 *.swp
